@@ -1,4 +1,4 @@
-# 💫 About Me:
+                  I'M SOHAIL BAGWAN
 I am Currently Pursuing my Btech Degree in Electronics and Computer engineering from Mit ADt University.<br>I am currently in Third Year.<br>I have worked on multiple projects that helped me gain hands-on experience in Python, machine learning concepts, and microcontroller platforms such as 8051 and STM32. While my hardware knowledge is stronger, I am also actively improving my software <br>skills and particularly in AI-based applications and automation.<br>I am currently focusing on my DSA in JAVA.<br>I am also trying to build projects based on WEB DEVELOPMNET.<br>I have learn JAVA,C,C++,Python languages.<br>I have learn HTML,CSS,JAVASCRIPT,NODEJS,SQL.<br>
 
 
